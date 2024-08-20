@@ -1,5 +1,4 @@
 bin/
-data/
-conf/
 log/
+test/
 makefile
